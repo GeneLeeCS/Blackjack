@@ -1,2 +1,2 @@
 # Blackjack
-Milestone Project - Blackjack Game
+Milestone Project - Blackjack Game with Python
